@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: kubepro
-          image: raghurajpratap/kuberpro
+          image: raghurajpratap/kubepro
           ports:
             - containerPort: 80
           
